@@ -5,6 +5,8 @@ Created on Mon Jul 30 18:47:14 2018
 @author: Delol
 """
 
+# Shopping List Project Completed and Updated 
+
 shopping_list = []
 #Here we create a list of shopping items
 print ( "What should we pick up at the store ? ")  
